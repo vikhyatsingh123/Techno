@@ -1,0 +1,46 @@
+*{
+    top: 0;
+    font-family: 'Kalam', cursive;
+}
+.grow-content{
+    color:lightcoral;
+}
+.bold-style{
+    font-weight: bolder;
+}
+.btn1{
+    background-color: orangered;
+}
+.about-head,.topic{
+    color: orangered;
+    text-decoration: underline;
+}
+.about-grow-content{
+    color: rgb(109, 109, 194);
+}
+.btn2{
+    background-color: rgb(69, 69, 228);
+}
+.card{
+    box-shadow:2px 2px 10px darkgray;
+}
+.card:hover{
+     box-shadow:2px 2px 10px black;
+     cursor: pointer;
+}
+.contact-box1{
+    background-color: rgb(217, 224, 220);
+}
+.contact-box2{
+    margin-left: 30%;
+}
+.form-control{
+    width: 200%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: wheat;
+    margin-bottom: 0;
+    padding: 0.6%;
+}
